@@ -37,3 +37,5 @@ khkk
 # Oli onPush
 
 # Oli with README.md excluded
+
+# Oli with README.md only... and SKIP_CI
